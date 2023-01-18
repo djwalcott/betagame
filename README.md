@@ -1,4 +1,4 @@
-# metagame
+# betagame
 
 Uses the `db-migrate` library, globally installed, for db migrations:
 
